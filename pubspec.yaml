@@ -22,7 +22,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  wechat_picker_library: ^1.0.5
+  wechat_picker_library:
+    git:
+      url: https://github.com/vudvv/wechat_picker_library
+      ref: 1.0.5
 
   extended_image:
     git:
