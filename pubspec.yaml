@@ -32,7 +32,10 @@ dependencies:
     git:
       url: https://github.com/vudvv/photo_manager
       ref: 3.6.4
-  photo_manager_image_provider: ^2.2.0
+  photo_manager_image_provider:
+    git:
+      url: https://github.com/vudvv/photo_manager_image_provider
+      ref: 2.2.0
   provider: ^6.0.5
   video_player: ^2.7.0
   visibility_detector: ^0.4.0
