@@ -11,33 +11,6 @@ that can be found in the LICENSE file. -->
 
 *None.*
 
-## 9.4.2
-
-### Improvements
-
-- Add Traditional Chinese language text delegate. (Thanks to @Gasol)
-- Improves the default sort conditions on Android.
-
-## 9.4.1
-
-### Improvements
-
-- Improves the default sort conditions.
-
-### Fixes
-
-- Fixes selecting when reached the max asset limit in the preview.
-
-## 9.4.0
-
-### Improvements
-
-- Allows `extended_image: ^9.0.0`.
-
-### Fixes
-
-- Allows assets changing when no path previously.
-
 ## 9.3.3
 
 ### Fixes
@@ -176,7 +149,7 @@ that can be found in the LICENSE file. -->
 
 ### New features
 
-- Add Korean language support. (Thanks to @LIMMIHEE)
+- Add Korean language support. (#494)
 
 ### Improvements
 
@@ -230,7 +203,7 @@ that can be found in the LICENSE file. -->
 ### New features
 
 - Sync all UI details from WeChat 8.3.x. (#458)
-- Add Turkish language text delegate. (Thanks to @cevheri).
+- Add Turkish language text delegate. (#331).
 - Allow to confirm 0 assets if there are selected assets previously. (#461)
 
 ### Improvements
@@ -252,7 +225,7 @@ that can be found in the LICENSE file. -->
 
 ### New features
 
-- Add Vietnamese language text delegate. (Thanks to @nploi).
+- Add Vietnamese language text delegate. (#424).
 
 ### Improvements
 

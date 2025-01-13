@@ -60,20 +60,18 @@ packages:
   extended_image:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "9.1.1"
-      resolved-ref: a27a2a351ae420bf3a6b6b9dfce396ffe766adda
-      url: "https://github.com/vudvv/extended_image"
-    source: git
+      name: extended_image
+      sha256: "85199f9233e03abc2ce2e68cbb2991648666af4a527ae4e6250935be8edfddae"
+      url: "https://pub.dev"
+    source: hosted
     version: "9.1.0"
   extended_image_library:
     dependency: transitive
     description:
-      path: "."
-      ref: "4.0.6"
-      resolved-ref: b09a98134b3b1046cd30cd924114670eb6a28497
-      url: "https://github.com/vudvv/extended_image_library"
-    source: git
+      name: extended_image_library
+      sha256: "9a94ec9314aa206cfa35f16145c3cd6e2c924badcc670eaaca8a3a8063a68cd7"
+      url: "https://pub.dev"
+    source: hosted
     version: "4.0.5"
   fake_async:
     dependency: transitive
@@ -242,20 +240,18 @@ packages:
   path_provider:
     dependency: transitive
     description:
-      path: "."
-      ref: "2.1.6"
-      resolved-ref: "5c0b9ac4c096e08b4faf622ada7f6669aed22f4f"
-      url: "https://github.com/vudvv/path_provider"
-    source: git
+      name: path_provider
+      sha256: "50c5dd5b6e1aaf6fb3a78b33f6aa3afca52bf903a8a5298f53101fdaee55bbcd"
+      url: "https://pub.dev"
+    source: hosted
     version: "2.1.5"
   path_provider_android:
     dependency: transitive
     description:
-      path: "."
-      ref: "2.2.16"
-      resolved-ref: "0cd21862482c429b5fcea9a92cc67596ccd5a9db"
-      url: "https://github.com/vudvv/path_provider_android.git"
-    source: git
+      name: path_provider_android
+      sha256: "4adf4fd5423ec60a29506c76581bc05854c55e3a0b72d35bb28d661c9686edf2"
+      url: "https://pub.dev"
+    source: hosted
     version: "2.2.15"
   path_provider_foundation:
     dependency: transitive
@@ -292,20 +288,18 @@ packages:
   photo_manager:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "3.6.4"
-      resolved-ref: "204055b1c59694a1cd1abfd3757002bb75b191ec"
-      url: "https://github.com/vudvv/photo_manager"
-    source: git
+      name: photo_manager
+      sha256: dc26184676b26d722d656073ca8fe29203d7631ec613aed1a9679de3aa1f52c2
+      url: "https://pub.dev"
+    source: hosted
     version: "3.6.3"
   photo_manager_image_provider:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "2.2.0"
-      resolved-ref: "109b66f6df4e2ee4a04ed56fbb2147a15f3be5d4"
-      url: "https://github.com/vudvv/photo_manager_image_provider"
-    source: git
+      name: photo_manager_image_provider
+      sha256: b6015b67b32f345f57cf32c126f871bced2501236c405aafaefa885f7c821e4f
+      url: "https://pub.dev"
+    source: hosted
     version: "2.2.0"
   platform:
     dependency: transitive
@@ -467,11 +461,10 @@ packages:
   wechat_picker_library:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "1.0.5"
-      resolved-ref: "13e23b6c1b223576e4c17cd78b5239098b78c501"
-      url: "https://github.com/vudvv/wechat_picker_library"
-    source: git
+      name: wechat_picker_library
+      sha256: a42e09cb85b15fc9410f6a69671371cc60aa99c4a1f7967f6593a7f665f6f47a
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.5"
   xdg_directories:
     dependency: transitive
