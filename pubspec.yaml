@@ -1,5 +1,6 @@
 name: wechat_assets_picker
 version: 9.3.3
+publish_to: none
 description: |
   An image picker (also with videos and audio)
   for Flutter projects based on WeChat's UI,
@@ -22,11 +23,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  wechat_picker_library: ^1.0.5
+  wechat_picker_library:
+    git:
+      url: https://github.com/vudvv/flutter_wechat_picker_library
+      ref: v1.0.6
 
   extended_image: ^9.0.4
-  photo_manager: ^3.5.0
-  photo_manager_image_provider: ^2.2.0
+  photo_manager:
+    git:
+      url: https://github.com/vudvv/flutter_photo_manager
+      ref: v3.6.5
   provider: ^6.0.5
   video_player: ^2.7.0
   visibility_detector: ^0.4.0
